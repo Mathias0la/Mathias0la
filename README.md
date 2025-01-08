@@ -12,16 +12,19 @@
  <p align="center">I´m a student from <b>Ålesund, Norway🇳🇴</b></p>
 
 
-<center>
+<p align="center">
 
-| Hobbies & Interests |
+  | Hobbies & Interests |
 | ------------------- |
 | 🎮 Videogames 🎮     |
 | 📚 Learning new skills 📚 |
 | 💻 Designing functional websites 💻 |
 | 🔉 Music 🔉          |
 
-</center>
+</p>
+
+
+
                                                     
   
 
