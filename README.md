@@ -1,6 +1,6 @@
 <h1>Hi, I´m Mathias </h1> 
 
-![Custom Emoji](https://cdn.7tv.app/emote/01FYQZVG280006SX8JX4TD7SJA/4x.avif)
+![Custom Emoji](https://cdn.7tv.app/emote/01HE3BAWE0000DR138X30ZQKE6/4x.avif)
   
 
  <p>I´m a student from <b>Ålesund, Norway🇳🇴</b></p>
