@@ -1,7 +1,6 @@
 <h1>Hi, I´m Mathias </h1> 
-<div style="font-size: 50px; background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
-  :shipit:
-</div>
+
+  <span style="font-size: 50px;">:shipit:</span>  
 
  <p>I´m a student from <b>Ålesund, Norway🇳🇴</b></p>
  <h2>Hobbies & Interests</h2>
