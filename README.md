@@ -10,10 +10,8 @@
   
 
  <p align="center">I´m a student from <b>Ålesund, Norway🇳🇴</b></p>
- <h2 align="center">Hobbies & Interests</h2>
 
-
-  | <center>First Header</center>| 
+  | <center>Hobbies & Interests</center>| 
 | ----------------------------- | 
 | <center>  🎮 Videogames 🎮</center> | 
 | <center> 📚 Learning new skills 📚</center> |
