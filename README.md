@@ -2,9 +2,9 @@
   <img src="https://cdn.7tv.app/emote/01FY4SAKPG0002SF3Y8QACNGMF/2x.avif"/>
 </h1>
 
-<p>
+
   <img src="https://cdn.7tv.app/emote/01HR5P6GBG000E1DNDR61KF6ZT/2x.avif"/>
-</p>
+
   
 
   
