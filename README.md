@@ -4,7 +4,7 @@
 
 
 
-![Custom Emoji](https://cdn.7tv.app/emote/01HE3BAWE0000DR138X30ZQKE6/4x.avif)
+![Custom Emoji](https://cdn.7tv.app/emote/01HR5P6GBG000E1DNDR61KF6ZT/2x.avif)
   
 
  <p>I´m a student from <b>Ålesund, Norway🇳🇴</b></p>
