@@ -11,7 +11,7 @@
 
  <p align="center">I´m a student from <b>Ålesund, Norway🇳🇴</b></p>
  <h2 align="center">Hobbies & Interests</h2>
-<p align="center">
+<p align="center" style="display: flex; flex-direction: column; align-items: flex-start;">
   <span>🎮 Videogames</span><br>
   <span>🔉 Music</span><br>
   <span>📚 Learning new skills</span><br>
