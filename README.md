@@ -1,4 +1,7 @@
-<h1>Hi, I´m Mathias :shipit:</h1> 
+<h1>Hi, I´m Mathias </h1> 
+<div style="font-size: 50px; background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
+  :shipit:
+</div>
 
  <p>I´m a student from <b>Ålesund, Norway🇳🇴</b></p>
  <h2>Hobbies & Interests</h2>
@@ -8,7 +11,9 @@
   <li>Learning new skills 📚</li>
   <li>Designing functional websites 💻</li>
  </ul>
- 
+ <div style="font-size: 50px; background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
+  :shipit:
+</div>
 <h3>Im currently learning</h3>
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
