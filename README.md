@@ -16,10 +16,10 @@
 
   | Hobbies & Interests |
 | ------------------- |
-| 🎮 Videogames 🎮     |
-| 📚 Learning new skills 📚 |
-| 💻 Designing functional websites 💻 |
-| 🔉 Music 🔉          |
+|  Videogames 🎮     |
+|  Learning new skills 📚 |
+|  Designing functional websites 💻 |
+|  Music 🔉          |
 
 
 
