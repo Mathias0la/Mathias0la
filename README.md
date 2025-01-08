@@ -14,10 +14,10 @@
 
  <p align="center">
    <pre>
-      - 🎮 Videogames
-      - 🔉 Music
-      - 📚 Learning new skills
-      -  💻 Designing functional websites
+                            - 🎮 Videogames
+                            - 🔉 Music
+                            - 📚 Learning new skills
+                            -  💻 Designing functional websites
    </pre>
  </p>
 
