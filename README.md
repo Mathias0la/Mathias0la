@@ -1,7 +1,7 @@
-## Hi there 👋
+<h1>Hi, I´m Mathias 🐸</h1> 
 
-
-<p>Welcome to my page! </br> I'm Mathias,a student from  🇳🇴<b>Ålesund, Norway</b></p>
+<h2>A little bit about me</h2>
+ 🇳🇴 <b>Ålesund, Norway</b>
 <h3>Im currently learning</h3>
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -10,5 +10,4 @@
          <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" />
            <img alt="NodeJS" src="https://img.shields.io/badge/Node.JS-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
             <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  
 </p>
