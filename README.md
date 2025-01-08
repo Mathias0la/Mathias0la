@@ -11,12 +11,12 @@
 
  <p align="center">I´m a student from <b>Ålesund, Norway🇳🇴</b></p>
  <h2 align="center">Hobbies & Interests</h2>
- <ul align="center" style="list-style-type: none; padding-left: 0;">
-  <li>Videogames 🎮</li>
-  <li>Music 🔉</li>
-  <li>Learning new skills 📚</li>
-  <li>Designing functional websites 💻</li>
- </ul>
+<p align="center">
+  <span>🎮 Videogames</span><br>
+  <span>🔉 Music</span><br>
+  <span>📚 Learning new skills</span><br>
+  <span>💻 Designing functional websites</span>
+</p>
  
 <h3 align="center">Im currently learning</h3>
 <p align="center">
