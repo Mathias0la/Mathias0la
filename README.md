@@ -1,18 +1,18 @@
-<h1 align="center">Hi, I´m Mathias 
+<h1>Hi, I´m Mathias 
   <img src="https://cdn.7tv.app/emote/01FY4SAKPG0002SF3Y8QACNGMF/2x.avif"/>
 </h1>
 
-<p align="center">
+<p>
   <img src="https://cdn.7tv.app/emote/01HR5P6GBG000E1DNDR61KF6ZT/2x.avif"/>
 </p>
   
 
   
 
- <p align="center">I´m a student from <b>Ålesund, Norway🇳🇴</b></p>
+ <p>I´m a student from <b>Ålesund, Norway🇳🇴</b></p>
 
 
-<p align="center">
+
 
   | Hobbies & Interests |
 | ------------------- |
@@ -21,7 +21,6 @@
 | 💻 Designing functional websites 💻 |
 | 🔉 Music 🔉          |
 
-</p>
 
 
 
