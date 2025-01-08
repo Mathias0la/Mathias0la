@@ -9,7 +9,7 @@
 
   
 
- <p>I´m a student from <b>Ålesund, Norway🇳🇴</b></p>
+ <p>I´m a student from <b>Norway🇳🇴</b></p>
 
 
 
