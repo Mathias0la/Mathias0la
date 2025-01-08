@@ -14,12 +14,12 @@
 
 
 
-  | Hobbies & Interests |
+  | Hobbies & Interests :shipit: |
 | ------------------- |
-|  Videogames 🎮     |
-|  Learning new skills 📚 |
-|  Designing functional websites 💻 |
-|  Music 🔉          |
+|  🎮 Videogames      |
+|  📚 Learning new skills  |
+|  💻 Designing functional websites |
+|  🎧 Music          |
 
 
 
