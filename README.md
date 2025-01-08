@@ -1,4 +1,6 @@
-<h1>Hi, I´m Mathias </h1> ![Custom Emoji Heading](https://cdn.7tv.app/emote/01GDGK795G000CF58E0FY6XT24/2x.avif)
+<h1>Hi, I´m Mathias </h1><img src="https://cdn.7tv.app/emote/01GDGK795G000CF58E0FY6XT24/2x.avif"/>
+
+
 
 ![Custom Emoji](https://cdn.7tv.app/emote/01HE3BAWE0000DR138X30ZQKE6/4x.avif)
   
