@@ -1,4 +1,6 @@
-<h1>Hi, I´m Mathias </h1><img src="https://cdn.7tv.app/emote/01GDGK795G000CF58E0FY6XT24/2x.avif"/>
+<h1>Hi, I´m Mathias 
+  <img src="https://cdn.7tv.app/emote/01GDGK795G000CF58E0FY6XT24/1x.avif"/>
+</h1>
 
 
 
