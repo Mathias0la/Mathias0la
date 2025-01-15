@@ -8,7 +8,7 @@
   
 
   
-<p align="center">I’m Mathias from <b>Ålesund, Norway</b>, a front-end development student with a passion for gaming and music.</p>
+<p>I’m Mathias from <b>Ålesund, Norway</b>, a front-end development student with a passion for gaming and music.</p>
 
 
  
