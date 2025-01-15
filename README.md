@@ -13,7 +13,7 @@
  
  <h2>Games I play!</h2>
  
-![topson](https://steam-stat.vercel.app/api?profileName=Niqzzz)
+![topson](https://steam-stat.vercel.app/api?profileName=niqzzz)
 
 
 
