@@ -8,10 +8,7 @@
   
 
   
-
- <p>I´m a student from <b>Norway🇳🇴</b></p>
-
-  
+<p align="center">I’m Mathias from <b>Ålesund, Norway</b>, a front-end development student with a passion for gaming and music.</p>
 
 
  
@@ -37,7 +34,7 @@
 
 
 
-<h3 align="center">Im currently learning</h3>
+<h3 align="center">Tools I use:</h3>
 <p align="center">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
