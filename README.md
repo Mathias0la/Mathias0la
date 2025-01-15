@@ -10,7 +10,9 @@
   
 
  <p>I´m a student from <b>Norway🇳🇴</b></p>
-
+ 
+ <h2>Games I play!</h2>
+![niqz](https://steam-stat.vercel.app/api?profileName=Niqzzz)
 
 
 
