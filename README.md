@@ -3,7 +3,7 @@
 </h1>
 
 
-  <img src="https://cdn.7tv.app/emote/01HR5P6GBG000E1DNDR61KF6ZT/2x.avif"/>
+
 
   
 
